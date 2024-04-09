@@ -1,0 +1,29 @@
+Subject: Congratulations! Advancing to PointBlank Interview Round
+
+Dear Candidate,
+
+I hope this email finds you well. First of all, we apologise for the delays in the conduction of the interviews.
+I am thrilled to inform you that you have successfully cleared the coding round at PointBlank. Congratulations on this achievement.
+
+As we move to the interview stage, it's essential to ensure that your resume reflects your current skills and experience.
+We have a draft resume template that you can use as a reference to refine your resume. Please find the draft link below:
+
+Resume: https://www.overleaf.com/read/jxqxjwstjvrr#d0f683
+
+Some tips regarding resume:
+* Aim to keep your resume concise, ideally on a single page.
+* You are not required to include all the entries present in the draft.
+* The draft resume is written in latex, but you are not obligated to use the same template. It serves as a reference to assist you in creating a professional resume.
+* Try to include everything you have achieved so far, it can be hackathons, blogs, community contributions, work, projects, skills, etc.
+
+Next Steps:
+You will soon receive further instructions regarding the interview process. Please keep an eye on your inbox for an email with all the necessary information.
+
+Should you have any questions or need further clarification, regarding resume or any other query, please do not hesitate to reach out.
+
+Looking forward to hearing from you soon.
+
+Best regards,
+
+Saalim Quadri
+Lead @PointBlank
